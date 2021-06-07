@@ -1,1 +1,2 @@
 My first git assignment
+This is not a commit message
